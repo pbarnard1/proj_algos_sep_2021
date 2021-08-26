@@ -1,0 +1,2 @@
+# Projects & Algorithms - September 2021
+Welcome to Projects & Algorithms for September 2021!  You are now in the final 4 weeks of the program!  This is now the fun part!!  There still will be assignments and discussions, but now you have your own projects to build!  Keep an eye on this repository as it will contain lecture and office hour code, along with lecture notes.  Feel free to clone this repository!
