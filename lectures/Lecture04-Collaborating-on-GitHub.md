@@ -20,6 +20,7 @@ Here is a basic layout (the branching part might vary based on how your group wi
 git clone remote_link // (Remote link format: https://github.com/user_name/repo_name.git) - first time only to get a copy of the project
 git checkout -b new_branch_name // Go to a NEW branch on your machine
 ```
+NOTE: For some of you, you might have to enter the remote link in this format: `https://{{your_personal_access_token}}@github.com/{{user_name}}/{{repo_name}}.git` - remove the curly braces {} and enter in your personal access token, the repo owner's name and the name of the repository itself, respectively.
 
 Now add/edit stuff accordingly:
 ```js
